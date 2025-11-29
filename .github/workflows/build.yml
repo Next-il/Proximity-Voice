@@ -47,7 +47,7 @@ jobs:
 
       - name: Build
         run: |
-          dotnet build ProxVoice.sln -c Release --no-restore /p:Version=${{ env.BUILD_NUMBER }}
+          dotnet build ProxVoice.sln -c Release --no-restore --output BuildOutput /p:Version=${{ env.BUILD_NUMBER }}
 
       - name: Create Release Artifact (ZIP) from BuildOutput
         run: |
