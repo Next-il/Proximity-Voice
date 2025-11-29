@@ -11,8 +11,8 @@ namespace ProxVoice;
 public class ProximityVoicePlugin : BasePlugin
 {
 	public override string ModuleName => "Proximity Voice";
-	public override string ModuleVersion => "0.3.0";
-	public override string ModuleAuthor => "ChatGPT";
+	public override string ModuleVersion => "1.0.0";
+	public override string ModuleAuthor => "ShiNxz & ChatGPT";
 	public override string ModuleDescription => "Simple proximity-based voice chat using ListenOverride.";
 
 	public static class ConVars

@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Credits
 
-- **Author**: ChatGPT (as per module metadata 😄)
+- **Author**: ShiNxz & ChatGPT (as per module metadata 😄)
 - **Framework**: [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 - **Inspiration**: Proximity voice systems in games like Phasmophobia, Among Us, etc.
 
