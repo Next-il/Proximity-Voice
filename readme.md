@@ -4,7 +4,7 @@
 
 **Proximity-based voice chat for Counter-Strike 2**
 
-[![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/next-il/ProxVoice)
+[![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/Next-il/ProxVoice)
 [![CounterStrikeSharp](https://img.shields.io/badge/CSS-v1.0.347-orange.svg)](https://github.com/roflmuffin/CounterStrikeSharp)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 
@@ -38,7 +38,7 @@ ProxVoice is a lightweight Counter-Strike 2 server plugin that implements proxim
 
 ### Steps
 
-1. **Download** the latest release from the [releases page](https://github.com/next-il/ProxVoice/releases)
+1. **Download** the latest release from the [releases page](https://github.com/Next-il/ProxVoice/releases)
 
 2. **Extract** to your CounterStrikeSharp plugins folder:
    ```
@@ -103,7 +103,7 @@ The plugin updates every **3 ticks** by default. To adjust:
 
 ```bash
 # Clone the repository
-git clone https://github.com/next-il/ProxVoice.git
+git clone https://github.com/Next-il/ProxVoice.git
 cd ProxVoice
 
 # Build the plugin
@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/next-il/ProxVoice)** if you find it useful!
+**[⭐ Star this repo](https://github.com/Next-il/ProxVoice)** if you find it useful!
 
 Made with ❤️ for the CS2 community
 
